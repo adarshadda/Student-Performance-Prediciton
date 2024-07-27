@@ -6,13 +6,17 @@ This end-to-end machine learning project predicts student performance using a Fl
 ### Locally with Flask
 
 1. **Clone the Repo**
-git clone https://github.com/yourusername/mlproject.git
+   
+git clone https://github.com/adarshadda/mlproject.git
+
 cd mlproject
 
-2. **Install Dependencies**
+3. **Install Dependencies**
+   
 pip install -r requirements.txt
 
-3. **Run the Flask App**
+4. **Run the Flask App**
+   
 python app/app.py
 
 ### Deployment
